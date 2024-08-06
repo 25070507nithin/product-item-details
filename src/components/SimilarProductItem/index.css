@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.similar-product-container {
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.similar-image {
+  height: 250px;
+  width: 150px;
+  border-radius: 10px;
+}
